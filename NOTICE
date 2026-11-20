@@ -1,0 +1,21 @@
+Controlled Security English (CSE)
+Copyright 2026 SleuthCo and contributors
+
+This product includes the CSE writing rules, dictionary, templates, and documentation,
+licensed under the Creative Commons Attribution 4.0 International licence (CC-BY-4.0),
+and the CSE surface checker and tests, licensed under the Apache License 2.0.
+
+Provenance:
+- CSE 0.4.0 was an earlier draft of the rules, dictionary, and checker.
+- CSE 0.4.1 reimplemented the checker and revised the rules. See VALIDATION.md.
+- CSE 0.4.2 added rules from agent acceptance testing. See CHANGELOG.md.
+
+Relationship to ASD-STE100:
+CSE follows the general approach of controlled languages such as ASD-STE100 Simplified
+Technical English. CSE does not use or reproduce the ASD-STE100 specification or its
+dictionary, does not claim STE100 compliance, and is not affiliated with, endorsed by,
+or certified by ASD (AeroSpace, Security and Defence Industries Association of Europe).
+ASD-STE100 is a specification of ASD.
+
+Standards referenced by identifier only: RFC 2119, RFC 8174, CVE, CWE, CVSS,
+MITRE ATT&CK, MITRE ATLAS, and ISO 8601. CSE is not affiliated with their maintainers.
